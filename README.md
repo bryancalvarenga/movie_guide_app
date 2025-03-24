@@ -12,4 +12,5 @@ O **Movie Guide App** é uma aplicação web desenvolvida em JavaScript que util
 
 - Pesquisa de filmes por nome.
 - Exibição de informações sobre o filme, como título, descrição e avaliação.
-- Interface interativa e fácil de usar.
+- 🖥Interface interativa e fácil de usar.
+
